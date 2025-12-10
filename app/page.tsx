@@ -154,13 +154,6 @@ CREATE TABLE orders (
           </div>
         </div>
 
-        {/* Ad Placeholder */}
-        <div className="mt-12 p-4 border border-slate-200 rounded-xl bg-white text-center shadow-sm">
-          <p className="text-xs text-slate-400 uppercase tracking-widest mb-2">Sponsored</p>
-          <div className="h-24 bg-slate-50 rounded-lg flex items-center justify-center border border-dashed border-slate-300">
-            <span className="text-slate-400 text-sm">Ad Space / Banner Placeholder</span>
-          </div>
-        </div>
       </div>
     </main>
   );
